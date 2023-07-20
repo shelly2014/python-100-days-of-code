@@ -1,0 +1,14 @@
+{
+    "Intel": {
+        "email": "test@intel.com",
+        "password": "p1"
+    },
+    "Amazon": {
+        "email": "test@amazon.com",
+        "password": "nEGeBAghThONWsuP"
+    },
+    "Facebook": {
+        "email": "test@facebook.com",
+        "password": "LNnGWwQIDMZkQKuQq"
+    }
+}
